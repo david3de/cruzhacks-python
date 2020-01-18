@@ -2,4 +2,4 @@
 age = 20
 
 if age < 21:
-	print("You can't buy alcohol")
+    print("You can't buy alcohol")

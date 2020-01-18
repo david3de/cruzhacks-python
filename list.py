@@ -10,9 +10,9 @@ for i in range(len(mylist)):
 
 # An example of looping through a list
 for ele in mylist:
-	print(ele)
+    print(ele)
 
 # An example of enumerating through a list
 for index, ele in enumerate(mylist):
-	print(index, ele)
+    print(index, ele)
 
